@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Tanya
 
-<!--
-**Tanya-Pav/Tanya-Pav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+💻 Interested in programming, statistics, machine learning and data analysis  
+📍 Moldova
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently studying
+
+- Probability Theory
+- Statistics
+- Discrete Mathematics
+- Machine Learning
+- Data Analysis (Python, Google Colab, Matplotlib)
+- Computer Networks
+
+---
+
+## 💻 Programming Languages
+
+- C
+- C++
+- Java
+- Python
+- R
+
+---
+
+## 🛠 Tools & Technologies
+
+- WEKA (Machine Learning)
+- Cisco Packet Tracer
+- Git & GitHub
+- Google Colab
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanya-Pav&show_icons=true)
